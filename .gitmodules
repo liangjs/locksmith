@@ -4,4 +4,4 @@
 	branch = locksmith
 [submodule "banshee"]
 	path = banshee
-	url = git@github.com:polyvios/banshee.git
+	url = https://github.com/polyvios/banshee.git
